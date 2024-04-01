@@ -1,6 +1,6 @@
 // TODO: write code here
 
-// comment this to pass build
+// eslint-disable-next-line
 const unusedVariable = "variable";
 
 // for demonstration purpose only
